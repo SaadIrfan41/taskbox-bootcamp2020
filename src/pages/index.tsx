@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home Page | Created with ❤️ by Elitizon Ltd</title>
+        <title>Home Page | Created with ❤️</title>
       </Head>
 
       <IndoxScreen />
